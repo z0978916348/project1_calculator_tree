@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1458579680 source:c:\users\user\desktop\calculator_tree-master\lex.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"lex.h"
+
+1458579680 c:\users\user\desktop\calculator_tree-master\lex.h
+
+1458579680 source:c:\users\user\desktop\calculator_tree-master\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	"lex.h"
+
+1554730584 source:d:\userdata\desktop\calculator_tree-master\lex.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"lex.h"
+
+1554730584 d:\userdata\desktop\calculator_tree-master\lex.h
+
+1554800303 source:d:\userdata\desktop\calculator_tree-master\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	"lex.h"
+
