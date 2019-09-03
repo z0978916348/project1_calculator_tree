@@ -40,7 +40,7 @@ TokenSet getToken(void)
     int i;
     char c;
 
-    while ( (c = fgetc(stdin)) == ' ' || c== '\t' );  // ©¿²¤ªÅ¥Õ¦r¤¸
+    while ( (c = fgetc(stdin)) == ' ' || c== '\t' );  // Â©Â¿Â²Â¤ÂªÃ…Â¥Ã•Â¦rÂ¤Â¸
     if(c==EOF){
         return end;
     }
