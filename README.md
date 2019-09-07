@@ -10,3 +10,5 @@ MOV r0 [0]
 MOV r1  2                                                                                                                                 
 ADD r0  r1                                                                                                                                 
 MOV [4] r0
+
+![](.....png)
